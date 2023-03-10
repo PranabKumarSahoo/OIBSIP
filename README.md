@@ -5,8 +5,8 @@
 
 In this internship I was offered three levels with having 3 tasks respectively. We have to choose only one level. So, I choose to work on the level 2 in which I have to complete the following tasks:
 
-* IDE:- VS Code
-* Technologies:-
+ IDE:- VS Code
+ Technologies:-
 - HTML, CSS & JavaScript
 - Firebase(For Hosting)
 
