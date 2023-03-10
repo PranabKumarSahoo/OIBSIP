@@ -29,14 +29,10 @@ In this internship I was offered three levels with having 3 tasks respectively. 
 ### Visit Website: [Tribute Page](https://tributetoratantata.web.app/)
 
 # Task- 3/A Basic To Do WebApp
-1. Develop a basic to-do app that enables a user to add daily tasks.
-2. The to-do web app must allow users to add new items to a list, and items added to a list must be visible. 
-3. Also, a user can mark a task “complete” upon its successful completion, and these completed tasks must appear on a separate list, say Completed Tasks.
-4. You can also add a separate section titled Pending Tasks that will list all the tasks that require completion. 
-5. In such a case, the to-do list will be a union of the Pending Tasks list and the Completed Tasks list. 
-6. Irrespective of the list, a user must be able to delete or edit tasks from it.
-7. To further increase the web app's complexity or make it more detailed, you can add the date and time when a task is added and/or completed.
-8. Also added a dark/light mode button to looks good to the website.
+1. A basic to-do app that enables a user to add daily tasks.
+2. The to-do web app must allow users to add new items to a list, and items added to a list is to be visible.
+3. Also, a user can mark a task “complete” upon its successful completion and user can edit & delete their tasks.
+4. There is also a light/dark mode button to look good for the website.
 
 ### Visit Website: [To DO WebApp](https://info-todo.web.app/)
 
