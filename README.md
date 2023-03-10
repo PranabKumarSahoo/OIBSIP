@@ -4,7 +4,7 @@
 
 In this internship I was offered with with three levels with having 3 tasks respectively. I choose to work on the level 2 in which I have to complete the following tasks:
 
-# Task- 3/Calculator
+# Task- 1/Calculator
 1. It takes a little skill to create a calculator with basic mathematical functionalities using  HTML, CSS and JavaScript. 
 2. Calculators require an interactive interface to perform basic functions such as addition, subtraction, division, and multiplication. 
 3. It will need a display screen to display the user’s input and give the results. 
@@ -14,7 +14,7 @@ In this internship I was offered with with three levels with having 3 tasks resp
 
 ### Visit Website: [calculator](https://info-calculator.web.app/)
 
-# Task- 3/Tribute Page
+# Task- 2/Tribute Page
 1. With a basic understanding of HTML and CSS, we can easily create a page for someone you admire. 
 2. Write about what you adore in the person, add images, give an appealing layout, use paragraphs appropriately. 
 3. We can also play around with different font styles and background colors.
@@ -31,7 +31,7 @@ In this internship I was offered with with three levels with having 3 tasks resp
 7. To further increase the web app's complexity or make it more detailed, you can add the date and time when a task is added and/or completed.
 8. Also added a dark/light mode button to looks good to the website.
 
-### Visit Website: [https://info-todo.web.app/)
+### Visit Website: [To DO WebApp]([https://tributetoratantata.web.app/](https://info-todo.web.app/))
 
 
 # Thank You! :)
