@@ -1,8 +1,14 @@
 # OIBSIP
+# Web Developement & Design Internship by [Oasis Infobytes](https://oasisinfobyte.com)
 
-***This was my first experience, working as a Web Developer. All thanks to [Oasis Infobytes](https://oasisinfobyte.com) for giving me this opportunity to work with them as a Web Development intern for this month of March.***
+***This was my first Virtual Internship Programm experience, working as a Web Developer. All thanks to [Oasis Infobytes](https://oasisinfobyte.com) for giving me this opportunity to work with them as a Web Development intern for this month of March.***
 
 In this internship I was offered three levels with having 3 tasks respectively. We have to choose only one level. So, I choose to work on the level 2 in which I have to complete the following tasks:
+
+IDE:- VS Code
+Technologies:-
+- HTML, CSS & JavaScript
+- Firebase(For Hosting)
 
 # Task- 1/Calculator
 1. It takes a little skill to create a calculator with basic mathematical functionalities using  HTML, CSS and JavaScript. 
@@ -31,7 +37,7 @@ In this internship I was offered three levels with having 3 tasks respectively. 
 7. To further increase the web app's complexity or make it more detailed, you can add the date and time when a task is added and/or completed.
 8. Also added a dark/light mode button to looks good to the website.
 
-### Visit Website: [To DO WebApp]([https://tributetoratantata.web.app/](https://info-todo.web.app/))
+### Visit Website: [To DO WebApp](https://info-todo.web.app/)
 
 
 # Thank You! :)
