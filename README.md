@@ -12,14 +12,14 @@ In this internship I was offered with with three levels with having 3 tasks resp
 5. The additional tools you need to build a fully functional calculator include eventListeners, if-else statements, operators, loops, and so on.
 6. I also add a dark/light mode which looks good to the website.
 
-## Visit Website: [calculator](https://info-calculator.web.app/)
+### Visit Website: [calculator](https://info-calculator.web.app/)
 
 # Task- 3/Tribute Page
 1. With a basic understanding of HTML and CSS, we can easily create a page for someone you admire. 
 2. Write about what you adore in the person, add images, give an appealing layout, use paragraphs appropriately. 
 3. We can also play around with different font styles and background colors.
 
-## Visit Website: [Tribute Page](https://tributetoratantata.web.app/)
+### Visit Website: [Tribute Page](https://tributetoratantata.web.app/)
 
 # Task- 3/A Basic To Do WebApp
 1. Develop a basic to-do app that enables a user to add daily tasks.
@@ -31,7 +31,7 @@ In this internship I was offered with with three levels with having 3 tasks resp
 7. To further increase the web app's complexity or make it more detailed, you can add the date and time when a task is added and/or completed.
 8. Also added a dark/light mode button to looks good to the website.
 
-## Visit Website: [https://info-todo.web.app/)
+### Visit Website: [https://info-todo.web.app/)
 
 
 # Thank You! :)
